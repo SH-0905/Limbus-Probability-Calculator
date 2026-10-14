@@ -12,7 +12,7 @@ A desktop application built with Python, SQL, and a 3-tier layered architecture 
 
 1. **Clone the repository:**
    ```bash
-   git clone [repo link](repo link)
+   git clone https://github.com/SH-0905/Limbus-Probability-Calculator.git
    cd limbus-calculator
    
 2. **Install Dependencies:**
